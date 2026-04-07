@@ -1,2 +1,2 @@
-# UKK_AplikasiSistemaManajemenAlat-DAVA-ALBANA-PUTRA
+# UKK_AplikasiSistemManajemenAlat-DAVA-ALBANA-PUTRA
 Dava Sayang Asil
